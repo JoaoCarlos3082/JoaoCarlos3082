@@ -1,7 +1,7 @@
 <h1 align="center">Oi, Eu sou o João Carlos</h1>
 <h3 align="center">Beginner Developer</h3>
 
-- 📫 Você me acha através do e-mail dmhubdigital@gmail.com **jcarlos30882@gmail.com**
+- 📫 Você me acha através do e-mail **jcarlos30882@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
