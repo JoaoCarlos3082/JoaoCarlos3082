@@ -5,7 +5,7 @@
 
 - 💬 Me pergunte sobre **SQL, Excel e Python**
 
-- 📫 Você me acha através do e-mail dmhubdigital@gmail.com **jcarlos30882@gmail.com**
+- 📫 Você me acha através do e-mail **jcarlos30882@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
